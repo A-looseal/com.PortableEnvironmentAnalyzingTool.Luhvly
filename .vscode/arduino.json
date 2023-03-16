@@ -1,0 +1,7 @@
+{
+    "port": "COM3",
+    "board": "arduino:avr:nano",
+    "sketch": "com.PortableEnvironmentAnalyzingTool.Luhvly.ino",
+    "output": "./build",
+    "configuration": "cpu=atmega328"
+}
